@@ -1,0 +1,16 @@
+crop_name,yield_per_hectare,price_per_unit,cost_per_hectare,water_per_hectare,season,category
+Rice,4500,25,55000,12000,Kharif,Cereal
+Wheat,3500,28,40000,5000,Rabi,Cereal
+Maize,5000,22,35000,6000,Kharif,Cereal
+Cotton,1800,65,45000,7000,Kharif,Cash Crop
+Sugarcane,70000,3,85000,18000,Annual,Cash Crop
+Groundnut,2000,55,40000,4500,Kharif,Oilseed
+Millet,2200,30,25000,3000,Kharif,Cereal
+Pulses,1200,90,28000,2500,Rabi,Pulse
+Soybean,2800,42,32000,4000,Kharif,Oilseed
+Sunflower,1800,55,30000,3500,Rabi,Oilseed
+Tomato,25000,18,120000,8000,Annual,Vegetable
+Potato,20000,15,80000,6000,Rabi,Vegetable
+Onion,15000,20,60000,5000,Rabi,Vegetable
+Mustard,1500,45,22000,2000,Rabi,Oilseed
+Barley,2800,25,28000,3500,Rabi,Cereal
